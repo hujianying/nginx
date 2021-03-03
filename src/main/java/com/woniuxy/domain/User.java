@@ -1,5 +1,5 @@
 package com.woniuxy.domain;
 
 public class User {
-    int i=8;
+  int i=16;
 }
